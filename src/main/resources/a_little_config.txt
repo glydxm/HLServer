@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:mysql://47.93.14.149/highlife?zeroDateTimeBehavior=convertToNull
+user = root
+password = 123456
+devMode = true
